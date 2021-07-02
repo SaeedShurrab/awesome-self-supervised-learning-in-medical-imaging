@@ -12,7 +12,15 @@ Self-Supervised Learning has become an exciting direction in AI community.
 
 ## Contributing
 
-<img src="We-Need-You-Blue-Bell-Community-Hub.png" alt="Wee" height =200 width=350 align="center" />
+<p align="center" >
+  <img src="We-Need-You-Blue-Bell-Community-Hub.png" height =200 width=350 />
+</p>
+
+
+
+
+
+
 
 Please help contribute this list by contacting [me](https://jason718.github.io/) or add [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls)
 
