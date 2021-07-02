@@ -1,14 +1,27 @@
 # Awesome Self-Supervised Learning in Medical Imaging[![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://awesome.re/)
 
-A curated list of awesome Self-Supervised Learning in medical image analysis. Inspired by [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
+This repository is mainly dedicated for listing the recent research advancements in the application of Self-Supervised-Learning in medical images computing field. Inspired by [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning)
 
-#### Why Self-Supervised?
 
-Self-Supervised Learning has become an exciting direction in AI community.
 
-- Jitendra Malik: "Supervision is the opium of the AI researcher"
-- Alyosha Efros: "The AI revolution will not be supervised"
-- Yann LeCun: "self-supervised learning is the cake, supervised learning is the icing on the cake, reinforcement learning is the cherry on the cake"
+#### What is self-supervised learning?
+
+Self-Supervised learning (SSL) is a hybrid learning approach that combines both supervised and unsupervised learning simultaneously. More clearly, SSL is an approach that aims at learning semantically useful features for a certain task by generating supervisory signal from a pool of unlabeled data without the need for human annotation. These representations is then used for subsequent tasks where the amount of labeled data is limited.
+
+<p align="center" >
+  <img src="ssl-pipelines.jpg" height =350 width=1050 />
+</p>
+
+​																							**Self-Supervised Learning pipelines in computer vision**
+
+#### Why Self-Supervised learning in medical imaging ?
+
+* Unlabeled medical imaging data is a abundant, but human annotated data is scarce.
+* building a large enough human annotated medical imaging datasets is:
+  1.  Expensive.
+  2. Time consuming.
+  3. Requires experienced personnel.
+  4. Prone to patients’ privacy preserving issues.
 
 ## Contributing
 
@@ -22,7 +35,7 @@ Self-Supervised Learning has become an exciting direction in AI community.
 
 
 
-Please help contribute this list by contacting [me](https://jason718.github.io/) or add [pull request](https://github.com/jason718/Awesome-Self-Supervised-Learning/pulls)
+Please help contribute this list by contacting [me](https://github.com/SaeedShurrab) or add [pull request](https://github.com/SaeedShurrab/awesome-selef-supervised-learning-in-medical-imaging/pulls)
 
 Markdown format: height 
 
