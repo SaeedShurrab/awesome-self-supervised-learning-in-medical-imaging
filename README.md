@@ -9,7 +9,7 @@ This repository is mainly dedicated for listing the recent research advancements
 Self-Supervised learning (SSL) is a hybrid learning approach that combines both supervised and unsupervised learning simultaneously. More clearly, SSL is an approach that aims at learning semantically useful features for a certain task by generating supervisory signal from a pool of unlabeled data without the need for human annotation. These representations is then used for subsequent tasks where the amount of labeled data is limited.
 
 <p align="center" >
-  <img src="ssl-pipelines.jpg" height =300 width=1050 />
+  <img src="./Assets/ssl-pipelines.jpg" height =300 width=1050 />
 </p>
 
 <p align="center">   <b>Self-Supervised Learning pipelines in computer vision</b> </p>
@@ -25,10 +25,10 @@ Self-Supervised learning (SSL) is a hybrid learning approach that combines both 
   3. Requires experienced personnel.
   4. Prone to patients’ privacy preserving issues.
 
-## Contributing
+## Contributing to the repository
 
 <p align="center" >
-  <img src="We-Need-You-Blue-Bell-Community-Hub.png" height =200 width=350 />
+  <img src="./Assets/We-Need-You-Blue-Bell-Community-Hub.png" height =200 width=350 />
 </p>
 
 
