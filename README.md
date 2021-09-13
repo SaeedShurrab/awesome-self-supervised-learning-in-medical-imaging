@@ -9,8 +9,9 @@ This repository is mainly dedicated for listing the recent research advancements
 Self-Supervised learning (SSL) is a hybrid learning approach that combines both supervised and unsupervised learning simultaneously. More clearly, SSL is an approach that aims at learning semantically useful features for a certain task by generating supervisory signal from a pool of unlabeled data without the need for human annotation. These representations is then used for subsequent tasks where the amount of labeled data is limited.
 
 <p align="center" >
-  <img src="./Assets/ssl-pipelines.jpg" height =300 width=1050 />
+  <img src="./Assets/ssl-pipelines.jpg" height =350 width=650 />
 </p>
+
 
 <p align="center">   <b>Self-Supervised Learning pipelines in computer vision</b> </p>
 
@@ -48,24 +49,130 @@ Markdown format: height
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
 
-## Table of Contents
 
-- [Theory](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#theory)
-- Computer Vision (CV)
-  - [Survey](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#survey)
-  - [Image Representation Learning](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#image-representation-learning)
-  - [Video Representation Learning](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#video-representation-learning)
-  - [Geometry](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#geometry)
-  - [Audio](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#audio)
-  - [Others](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#others)
-- Machine Learning
-  - [Reinforcement Learning](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#reinforcement-learning)
-  - [Recommendation Systems](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#recommendation-systems)
-- [Robotics](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#robotics)
-- [Natural Language Processing (NLP)](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#nlp)
-- [Automatic Speech Recognition (ASR)](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#asr)
-- [Graph](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#graph)
-- [Talks](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#talks)
-- [Thesis](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#thesis)
-- [Blog](https://github.com/jason718/awesome-self-supervised-learning/blob/master/README.md#blog)
+
+
+
+## Criteria
+
+1. A list of **recent self-supervised learning papers** in medical imaging published since **2017**.
+
+2. Papers are collected from peer-reviewed journals and high reputed conferences. However, it might have recent papers on arXiv.
+
+3. A meta-data is required along the paper, e.g. category.
+
+   
+
+
+
+## List of Journals / Conferences (J/C):
+
+- **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
+- **[IEEE Transaction on Medical Imaging (IEEE-TMI)](https://ieee-tmi.org/)**
+- **[IEEE Transaction on Biomedical Engineering (IEEE-TBME)](http://tbme.embs.org/)**
+- **[IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)](http://jbhi.embs.org/)**
+- **International Conference on Information Processing in Medical Imaging (IPMI)**
+- **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
+- **International Conference on Medical Imaging with Deep Learning (MIDL)**
+- **IEEE International Symposium on Biomedical Imaging (ISBI)**
+
+## 
+
+
+
+## 2021
+
+
+
+| Paper title | Journal/Conference | Category | Paper Link | Code ink |
+| :---------: | :----------------: | :------: | :--------: | :------: |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+
+
+
+## 2020
+
+
+
+
+
+| Paper title | Journal/Conference | Category | Paper Link | Code ink |
+| :---------: | :----------------: | :------: | :--------: | :------: |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+
+
+
+
+
+## 2019
+
+
+
+| Paper title | Journal/Conference | Category | Paper Link | Code ink |
+| :---------: | :----------------: | :------: | :--------: | :------: |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+
+
+
+
+
+## 2018
+
+
+
+
+
+| Paper title | Journal/Conference | Category | Paper Link | Code ink |
+| :---------: | :----------------: | :------: | :--------: | :------: |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+|             |                    |          |            |          |
+
+
+
+## 2017
+
+
+
+|               Paper title                | Journal/Conference | Category | Paper Link | Code ink |
+| :--------------------------------------: | :----------------: | :------: | :--------: | :------: |
+| Self-supervised Learning for Spinal MRIs |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
+|                                          |                    |          |            |          |
 
