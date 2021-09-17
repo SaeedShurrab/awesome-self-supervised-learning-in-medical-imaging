@@ -77,16 +77,20 @@ Markdown format: height
 - **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
 - **[Nature Machine Intelligence (NMI)](https://www.nature.com/natmachintell/)**
+- **[Pattern Recognition](https://www.sciencedirect.com/science/journal/00313203)**
+- **[Expert Systems with Applications (ESA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)**
+- **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)**
 - **Proceedings of Machine Learning Research (PMLR)**
 - **Annual Conference on Neural Information Processing Systems (NIPS)**
 - **International Conference on Information Processing in Medical Imaging (IPMI)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 - **International Conference on Medical Imaging with Deep Learning (MIDL)**
 - **IEEE International Symposium on Biomedical Imaging (ISBI)**
+- **Joint European Conference on Machine Learning and Knowledge Discovery in Databases (JECMLKDD)**
 - **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
 - **International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**
 
-## 
+
 
 
 
@@ -94,25 +98,33 @@ Markdown format: height
 
 
 
-| Paper title | Journal/Conference | Category | Paper Link | Code ink |
-| :---------: | :----------------: | :------: | :--------: | :------: |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
+|                         Paper title                          | Journal/Conference  |           Category           |                          Paper link                          |                          Code link                           |
+| :----------------------------------------------------------: | :-----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Multimodal Self-supervised Learning for Medical Image Analysis |        IPMI         |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_51) |                             N/A                              |
+| Self-supervised multimodal reconstruction pre-training for retinal computer-aided diagnosis |         ESA         |          Generative          | [Link](https://www.sciencedirect.com/science/article/pii/S0957417421009982) |                             N/A                              |
+| MedAug: Contrastive learning leveraging patient metadata improves representations for chest X-ray interpretation |        ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2102.10663)           |                             N/A                              |
+| COVID-19 Prognosis via Self-Supervised Representation Learning and Multi-Image Prediction |        ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2101.04909)           | [pytorch](https://github.com/facebookresearch/CovidPrognosis) |
+| Momentum contrastive learning for few-shot COVID-19 diagnosis from chest CT images | Pattern Recognition |         Contrastive          | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000133) |                             N/A                              |
+| Big Self-Supervised Models Advance Medical Image Classification |        ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2101.05224)           |                             N/A                              |
+| Self-supervised Multi-task Representation Learning for Sequential Medical Images |      JECMLKDD       | Multiple-tasks/Multi-tasking | [Link](https://link.springer.com/chapter/10.1007/978-3-030-86523-8_47) |                             N/A                              |
+| Self-path: Self-supervision for classification of pathology images with limited annotations |         TMI         | Multiple-tasks/Multi-tasking |     [Link](https://ieeexplore.ieee.org/document/9343323)     |                             N/A                              |
+| Twin self-supervision based semi-supervised learning (TS-SSL): Retinal anomaly classification in SD-OCT images |   Neurocomputing    | Multiple-tasks/Multi-tasking | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012352) |     [tensorflow](https://github.com/ZhangYH0502/TS-SSL.)     |
+| Rotation-oriented collaborative self-supervised learning for retinal disease diagnosis. |         TMI         | Multiple-tasks/Multi-tasking |     [Link](https://ieeexplore.ieee.org/document/9411868)     | [tensorflow](https://github.com/xmengli999/Rotation-oriented-self-supervised) |
+| Volumetric white matter tract segmentation with nested self-supervised learning using sequential pretext tasks |        MedIA        | Multiple-tasks/Multi-tasking | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001407) |                             N/A                              |
+
+
+
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001407)
+
+
+
+[tensorflow](https://github.com/xmengli999/Rotation-oriented-self-supervised)
+
+[pytorch](https://github.com/facebookresearch/CovidPrognosis)
 
 
 
 ## 2020
-
-
-
-
 
 |                         Paper title                          | Journal/Conference |           Category           |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -139,15 +151,6 @@ Markdown format: height
 | Retinal Image Classification by Self-Supervised Fuzzy Clustering Network |    IEEE Access     | Multiple-tasks/Multi-tasking |     [Link](https://ieeexplore.ieee.org/document/9091815)     |                             N/A                              |
 | Learning semantics-enriched representation via self-discovery, self-classification, and self-restoration |       MICCAI       | Multiple-tasks/Multi-tasking | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_14) |   [pytorch](https://github.com/fhaghighi/SemanticGenesis)    |
 | SAR: Scale-Aware Restoration Learning for 3D Tumor Segmentation |       ArXiv        | Multiple-tasks/Multi-tasking |           [Link](https://arxiv.org/abs/2010.06107)           |                             N/A                              |
-|                                                              |                    |                              |                                                              |                                                              |
-
-[Link](https://arxiv.org/abs/2010.06107)
-
-
-
-[tensorflow](https://github.com/HealthML/self-supervised-3d-tasks)
-
-[pytorch](https://github.com/fhaghighi/SemanticGenesis)
 
 
 
@@ -162,10 +165,6 @@ Markdown format: height
 | Self-supervised learning for medical image analysis using image context restoration |       MedIA        |          Generative          | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699) |                            N/A                            |
 | Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis |       MICCAI       |          Generative          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_42) | [tensorflow](https://github.com/MrGiovanni/ModelsGenesis) |
 | Surrogate Supervision for Medical Image Analysis: Effective Deep Learning From Limited Quantities of Labeled Data |        ISBI        | Multiple-tasks/Multi-tasking |    [Link](https://ieeexplore.ieee.org/document/8759553/)     |                            N/A                            |
-|                                                              |                    |                              |                                                              |                                                           |
-|                                                              |                    |                              |                                                              |                                                           |
-|                                                              |                    |                              |                                                              |                                                           |
-|                                                              |                    |                              |                                                              |                                                           |
 
 
 
@@ -177,13 +176,6 @@ Markdown format: height
 | :----------------------------------------------------------: | :----------------: | :--------: | :----------------------------------------------------------: | :-------: |
 | Exploiting the potential of unlabeled endoscopic video data with self-supervised learning |       IJCARS       | Generative | [Link](https://link.springer.com/article/10.1007/s11548-018-1772-0) |    N/A    |
 | Improving Cytoarchitectonic Segmentation of Human Brain Areas with Self-supervised Siamese Networks |       MICCAI       | Predictive | [Link](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_76) |    N/A    |
-|                                                              |                    |            |                                                              |           |
-|                                                              |                    |            |                                                              |           |
-|                                                              |                    |            |                                                              |           |
-|                                                              |                    |            |                                                              |           |
-|                                                              |                    |            |                                                              |           |
-|                                                              |                    |            |                                                              |           |
-|                                                              |                    |            |                                                              |           |
 
 
 
@@ -195,11 +187,4 @@ Markdown format: height
 | :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :-------: |
 |           Self-supervised Learning for Spinal MRIs           |       DLMIA        | Contrastive | [Link](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_34) |    N/A    |
 | Self supervised deep representation learning for fine-grained body part recognition |        ISBI        | Predictive  |     [Link](https://ieeexplore.ieee.org/document/7950587)     |    N/A    |
-|                                                              |                    |             |                                                              |           |
-|                                                              |                    |             |                                                              |           |
-|                                                              |                    |             |                                                              |           |
-|                                                              |                    |             |                                                              |           |
-|                                                              |                    |             |                                                              |           |
-|                                                              |                    |             |                                                              |           |
-|                                                              |                    |             |                                                              |           |
 
