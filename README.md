@@ -71,10 +71,12 @@ Markdown format: height
 - **[IEEE Transaction on Medical Imaging (IEEE-TMI)](https://ieee-tmi.org/)**
 - **[IEEE Transaction on Biomedical Engineering (IEEE-TBME)](http://tbme.embs.org/)**
 - **[IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)](http://jbhi.embs.org/)**
+- **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
 - **International Conference on Information Processing in Medical Imaging (IPMI)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 - **International Conference on Medical Imaging with Deep Learning (MIDL)**
 - **IEEE International Symposium on Biomedical Imaging (ISBI)**
+- **International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**
 
 ## 
 
@@ -124,19 +126,23 @@ Markdown format: height
 
 
 
-| Paper title | Journal/Conference | Category | Paper Link | Code ink |
-| :---------: | :----------------: | :------: | :--------: | :------: |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
+|                         Paper title                          | Journal/Conference |           Category           |                          Paper Link                          |                         Code ink                          |
+| :----------------------------------------------------------: | :----------------: | :--------------------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
+| Self-Supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_60) |                            N/A                            |
+| Surrogate Supervision for Medical Image Analysis: Effective Deep Learning From Limited Quantities of Labeled Data |        ISBI        | Multiple-tasks/Multi-tasking |    [Link](https://ieeexplore.ieee.org/document/8759553/)     |                            N/A                            |
+| Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_46) |                            N/A                            |
+| Self-supervised learning for medical image analysis using image context restoration |       MedIA        |          Generative          | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699) |                            N/A                            |
+| Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis |       MICCAI       |          Generative          |                                                              | [tensorflow](https://github.com/MrGiovanni/ModelsGenesis) |
+|                                                              |                    |                              |                                                              |                                                           |
+|                                                              |                    |                              |                                                              |                                                           |
+|                                                              |                    |                              |                                                              |                                                           |
+|                                                              |                    |                              |                                                              |                                                           |
+
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699)
 
 
+
+[tensorflow](https://github.com/MrGiovanni/ModelsGenesis)
 
 
 
@@ -144,19 +150,17 @@ Markdown format: height
 
 
 
-
-
-| Paper title | Journal/Conference | Category | Paper Link | Code ink |
-| :---------: | :----------------: | :------: | :--------: | :------: |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
-|             |                    |          |            |          |
+|                         Paper title                          | Journal/Conference |  Category  |                          Paper Link                          | Code ink |
+| :----------------------------------------------------------: | :----------------: | :--------: | :----------------------------------------------------------: | :------: |
+| Exploiting the potential of unlabeled endoscopic video data with self-supervised learning |       IJCARS       | Generative | [Link](https://link.springer.com/article/10.1007/s11548-018-1772-0) |   N/A    |
+| Improving Cytoarchitectonic Segmentation of Human Brain Areas with Self-supervised Siamese Networks |       MICCAI       | Predictive | [Link](https://link.springer.com/chapter/10.1007/978-3-030-00931-1_76) |   N/A    |
+|                                                              |                    |            |                                                              |          |
+|                                                              |                    |            |                                                              |          |
+|                                                              |                    |            |                                                              |          |
+|                                                              |                    |            |                                                              |          |
+|                                                              |                    |            |                                                              |          |
+|                                                              |                    |            |                                                              |          |
+|                                                              |                    |            |                                                              |          |
 
 
 
@@ -164,15 +168,15 @@ Markdown format: height
 
 
 
-|               Paper title                | Journal/Conference | Category | Paper Link | Code ink |
-| :--------------------------------------: | :----------------: | :------: | :--------: | :------: |
-| Self-supervised Learning for Spinal MRIs |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
-|                                          |                    |          |            |          |
+|                         Paper title                          | Journal/Conference |  Category   |                          Paper Link                          | Code ink |
+| :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :------: |
+|           Self-supervised Learning for Spinal MRIs           |       DLMIA        | Contrastive | [Link](https://link.springer.com/chapter/10.1007/978-3-319-67558-9_34) |   N/A    |
+| Self supervised deep representation learning for fine-grained body part recognition |        ISBI        | Predictive  |     [Link](https://ieeexplore.ieee.org/document/7950587)     |   N/A    |
+|                                                              |                    |             |                                                              |          |
+|                                                              |                    |             |                                                              |          |
+|                                                              |                    |             |                                                              |          |
+|                                                              |                    |             |                                                              |          |
+|                                                              |                    |             |                                                              |          |
+|                                                              |                    |             |                                                              |          |
+|                                                              |                    |             |                                                              |          |
 
