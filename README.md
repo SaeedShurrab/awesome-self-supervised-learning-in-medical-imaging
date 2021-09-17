@@ -76,6 +76,8 @@ Markdown format: height
 - **[Applied Soft Computing (ASC)](https://www.sciencedirect.com/journal/applied-soft-computing)**
 - **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
+- **[Nature Machine Intelligence (NMI)](https://www.nature.com/natmachintell/)**
+- **Proceedings of Machine Learning Research (PMLR)**
 - **International Conference on Information Processing in Medical Imaging (IPMI)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 - **International Conference on Medical Imaging with Deep Learning (MIDL)**
@@ -118,16 +120,24 @@ Markdown format: height
 | Self-Supervised Learning Based on Spatial Awareness for Medical Image Analysis |    IEEE Access     | Predictive |     [Link](https://ieeexplore.ieee.org/document/9186121)     |                       N/A                        |
 | Self-supervised Skull Reconstruction in Brain CT Images with Decompressive Craniectomy |       MICCAI       | Generative | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_38) | [pytorch](https://gitlab.com/matzkin/headctools) |
 | Learning the retinal anatomy from scarce annotated data using self-supervised multimodal reconstruction |        ASC         | Generative | [Link](https://www.sciencedirect.com/science/article/pii/S1568494620301502) |                       N/A                        |
-| Multimodal Transfer Learning-based Approaches for Retinal Vascular Segmentation |       ArXiv        | Gnerative  |           [Link](https://arxiv.org/abs/2012.10160)           |                       N/A                        |
-| Multi-modal self-supervised pre-training for joint optic disc and cup segmentation in eye fundus images |       ICASSP       | Gnerative  | [Link](https://ieeexplore.ieee.org/abstract/document/9053551) |                       N/A                        |
+| Multimodal Transfer Learning-based Approaches for Retinal Vascular Segmentation |       ArXiv        | Generative |           [Link](https://arxiv.org/abs/2012.10160)           |                       N/A                        |
+| Multi-modal self-supervised pre-training for joint optic disc and cup segmentation in eye fundus images |       ICASSP       | Generative | [Link](https://ieeexplore.ieee.org/abstract/document/9053551) |                       N/A                        |
+| Self-supervised retinal thickness prediction enables deep learning from unlabelled data to boost classification of diabetic retinopathy |        NMI         | Generative |  [Link](https://www.nature.com/articles/s42256-020-00247-1)  | [tensorflow](https://github.com/theislab/DeepRT) |
+| Leveraging Self-supervised Denoising for Image Segmentation  |        ISBI        | Generative | [Link](https://ieeexplore.ieee.org/abstract/document/9098559) | [tensorflow](https://github.com/juglab/VoidSeg)  |
+| Self-Supervised Pretraining with DICOM metadata in Ultrasound Imaging |        PMLR        | Generative |    [Link](https://proceedings.mlr.press/v126/hu20a.html)     |                       N/A                        |
+| Revisiting rubik’s cube: Self-supervised learning with volume-wise transformation for 3d medical image segmentation |       MICCAI       | Generative | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24) |                       N/A                        |
+|                                                              |                    |            |                                                              |                                                  |
+|                                                              |                    |            |                                                              |                                                  |
+|                                                              |                    |            |                                                              |                                                  |
+|                                                              |                    |            |                                                              |                                                  |
 |                                                              |                    |            |                                                              |                                                  |
 |                                                              |                    |            |                                                              |                                                  |
 
-[Link](https://ieeexplore.ieee.org/abstract/document/9053551)
+[Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24)
 
 
 
-[tensorflow](https://github.com/MrGiovanni/ModelsGenesis)
+[tensorflow](https://github.com/juglab/VoidSeg)
 
 [pytorch](https://gitlab.com/matzkin/headctools)
 
