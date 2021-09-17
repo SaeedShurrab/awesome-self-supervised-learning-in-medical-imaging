@@ -78,6 +78,7 @@ Markdown format: height
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
 - **[Nature Machine Intelligence (NMI)](https://www.nature.com/natmachintell/)**
 - **Proceedings of Machine Learning Research (PMLR)**
+- **Annual Conference on Neural Information Processing Systems (NIPS)**
 - **International Conference on Information Processing in Medical Imaging (IPMI)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 - **International Conference on Medical Imaging with Deep Learning (MIDL)**
@@ -134,16 +135,19 @@ Markdown format: height
 | Contrastive learning of global and local features for medical image segmentation with limited annotations |       ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2006.10511)           | [tensorflow](https://github.com/krishnabits001/domain_specific_cl) |
 | Self-Supervised Representation Learning for Ultrasound Video |        ISBI        | Multiple-tasks/Multi-tasking | [Link](https://ieeexplore.ieee.org/abstract/document/9098666) |                             N/A                              |
 | A Multi-Task Self-Supervised Learning Framework for Scopy Images |        ISBI        | Multiple-tasks/Multi-tasking | [Link](https://ieeexplore.ieee.org/abstract/document/9098527) |                             N/A                              |
+| 3D Self-Supervised Methods for Medical Imaging--update references |        NIPS        | Multiple-tasks/Multi-tasking | [Link](https://proceedings.neurips.cc/paper/2020/file/d2dc6368837861b42020ee72b0896182-Paper.pdf) | [tensorflow](https://github.com/HealthML/self-supervised-3d-tasks) |
+| Retinal Image Classification by Self-Supervised Fuzzy Clustering Network |    IEEE Access     | Multiple-tasks/Multi-tasking |     [Link](https://ieeexplore.ieee.org/document/9091815)     |                             N/A                              |
+| Learning semantics-enriched representation via self-discovery, self-classification, and self-restoration |       MICCAI       | Multiple-tasks/Multi-tasking | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_14) |   [pytorch](https://github.com/fhaghighi/SemanticGenesis)    |
+| SAR: Scale-Aware Restoration Learning for 3D Tumor Segmentation |       ArXiv        | Multiple-tasks/Multi-tasking |           [Link](https://arxiv.org/abs/2010.06107)           |                             N/A                              |
 |                                                              |                    |                              |                                                              |                                                              |
-|                                                              |                    |                              |                                                              |                                                              |
 
-[Link](https://ieeexplore.ieee.org/abstract/document/9098527)
-
+[Link](https://arxiv.org/abs/2010.06107)
 
 
-[tensorflow](https://github.com/krishnabits001/domain_specific_cl)
 
-[pytorch](https://github.com/stanfordmlgroup/MoCo-CXR)
+[tensorflow](https://github.com/HealthML/self-supervised-3d-tasks)
+
+[pytorch](https://github.com/fhaghighi/SemanticGenesis)
 
 
 
