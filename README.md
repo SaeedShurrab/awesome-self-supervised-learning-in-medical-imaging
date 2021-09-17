@@ -113,33 +113,37 @@ Markdown format: height
 
 
 
-|                         Paper title                          | Journal/Conference |  Category  |                          Paper link                          |                    Code link                     |
-| :----------------------------------------------------------: | :----------------: | :--------: | :----------------------------------------------------------: | :----------------------------------------------: |
-| Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-supervised Medical Image Segmentation |       MICCAI       | Predictive | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_60) |                       N/A                        |
-| Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis |       MedIA        | Predictive | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109) |                       N/A                        |
-| Self-Supervised Learning Based on Spatial Awareness for Medical Image Analysis |    IEEE Access     | Predictive |     [Link](https://ieeexplore.ieee.org/document/9186121)     |                       N/A                        |
-| Self-supervised Skull Reconstruction in Brain CT Images with Decompressive Craniectomy |       MICCAI       | Generative | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_38) | [pytorch](https://gitlab.com/matzkin/headctools) |
-| Learning the retinal anatomy from scarce annotated data using self-supervised multimodal reconstruction |        ASC         | Generative | [Link](https://www.sciencedirect.com/science/article/pii/S1568494620301502) |                       N/A                        |
-| Multimodal Transfer Learning-based Approaches for Retinal Vascular Segmentation |       ArXiv        | Generative |           [Link](https://arxiv.org/abs/2012.10160)           |                       N/A                        |
-| Multi-modal self-supervised pre-training for joint optic disc and cup segmentation in eye fundus images |       ICASSP       | Generative | [Link](https://ieeexplore.ieee.org/abstract/document/9053551) |                       N/A                        |
-| Self-supervised retinal thickness prediction enables deep learning from unlabelled data to boost classification of diabetic retinopathy |        NMI         | Generative |  [Link](https://www.nature.com/articles/s42256-020-00247-1)  | [tensorflow](https://github.com/theislab/DeepRT) |
-| Leveraging Self-supervised Denoising for Image Segmentation  |        ISBI        | Generative | [Link](https://ieeexplore.ieee.org/abstract/document/9098559) | [tensorflow](https://github.com/juglab/VoidSeg)  |
-| Self-Supervised Pretraining with DICOM metadata in Ultrasound Imaging |        PMLR        | Generative |    [Link](https://proceedings.mlr.press/v126/hu20a.html)     |                       N/A                        |
-| Revisiting rubik’s cube: Self-supervised learning with volume-wise transformation for 3d medical image segmentation |       MICCAI       | Generative | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24) |                       N/A                        |
-|                                                              |                    |            |                                                              |                                                  |
-|                                                              |                    |            |                                                              |                                                  |
-|                                                              |                    |            |                                                              |                                                  |
-|                                                              |                    |            |                                                              |                                                  |
-|                                                              |                    |            |                                                              |                                                  |
-|                                                              |                    |            |                                                              |                                                  |
+|                         Paper title                          | Journal/Conference |           Category           |                          Paper link                          |                          Code link                           |
+| :----------------------------------------------------------: | :----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-supervised Medical Image Segmentation |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_60) |                             N/A                              |
+| Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis |       MedIA        |          Predictive          | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109) |                             N/A                              |
+| Self-Supervised Learning Based on Spatial Awareness for Medical Image Analysis |    IEEE Access     |          Predictive          |     [Link](https://ieeexplore.ieee.org/document/9186121)     |                             N/A                              |
+| Self-supervised Skull Reconstruction in Brain CT Images with Decompressive Craniectomy |       MICCAI       |          Generative          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59713-9_38) |       [pytorch](https://gitlab.com/matzkin/headctools)       |
+| Learning the retinal anatomy from scarce annotated data using self-supervised multimodal reconstruction |        ASC         |          Generative          | [Link](https://www.sciencedirect.com/science/article/pii/S1568494620301502) |                             N/A                              |
+| Multimodal Transfer Learning-based Approaches for Retinal Vascular Segmentation |       ArXiv        |          Generative          |           [Link](https://arxiv.org/abs/2012.10160)           |                             N/A                              |
+| Multi-modal self-supervised pre-training for joint optic disc and cup segmentation in eye fundus images |       ICASSP       |          Generative          | [Link](https://ieeexplore.ieee.org/abstract/document/9053551) |                             N/A                              |
+| Self-supervised retinal thickness prediction enables deep learning from unlabelled data to boost classification of diabetic retinopathy |        NMI         |          Generative          |  [Link](https://www.nature.com/articles/s42256-020-00247-1)  |       [tensorflow](https://github.com/theislab/DeepRT)       |
+| Leveraging Self-supervised Denoising for Image Segmentation  |        ISBI        |          Generative          | [Link](https://ieeexplore.ieee.org/abstract/document/9098559) |       [tensorflow](https://github.com/juglab/VoidSeg)        |
+| Self-Supervised Pretraining with DICOM metadata in Ultrasound Imaging |        PMLR        |          Generative          |    [Link](https://proceedings.mlr.press/v126/hu20a.html)     |                             N/A                              |
+| Revisiting rubik’s cube: Self-supervised learning with volume-wise transformation for 3d medical image segmentation |       MICCAI       |          Generative          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24) |                             N/A                              |
+| Semi-supervised breast cancer histology classification using deep multiple instance learning and contrast predictive coding |       ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/1910.10825)           |                             N/A                              |
+| Embedding Task Knowledge into 3D Neural Networks via Self-supervised Learning |       ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2006.05798)           |                             N/A                              |
+| PGL: Prior-Guided Local Self-supervised Learning for 3D Medical Image Segmentation |       ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2011.12640)           |          [pytorch](https://github.com/YtongXie/PGL)          |
+| Self-Supervised Feature Learning via Exploiting Multi-Modal Data for Retinal Disease Diagnosis |        TMI         |         Contrastive          |     [Link](https://ieeexplore.ieee.org/document/9139411)     |   [pytorch](https://github.com/xmengli999/self_supervised)   |
+| MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models |        PMLR        |         Contrastive          | [Link](https://proceedings.mlr.press/v143/sowrirajan21a.html) |    [pytorch](https://github.com/stanfordmlgroup/MoCo-CXR)    |
+| Contrastive learning of global and local features for medical image segmentation with limited annotations |       ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2006.10511)           | [tensorflow](https://github.com/krishnabits001/domain_specific_cl) |
+| Self-Supervised Representation Learning for Ultrasound Video |        ISBI        | Multiple-tasks/Multi-tasking | [Link](https://ieeexplore.ieee.org/abstract/document/9098666) |                             N/A                              |
+| A Multi-Task Self-Supervised Learning Framework for Scopy Images |        ISBI        | Multiple-tasks/Multi-tasking | [Link](https://ieeexplore.ieee.org/abstract/document/9098527) |                             N/A                              |
+|                                                              |                    |                              |                                                              |                                                              |
+|                                                              |                    |                              |                                                              |                                                              |
 
-[Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_24)
+[Link](https://ieeexplore.ieee.org/abstract/document/9098527)
 
 
 
-[tensorflow](https://github.com/juglab/VoidSeg)
+[tensorflow](https://github.com/krishnabits001/domain_specific_cl)
 
-[pytorch](https://gitlab.com/matzkin/headctools)
+[pytorch](https://github.com/stanfordmlgroup/MoCo-CXR)
 
 
 
