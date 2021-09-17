@@ -114,16 +114,6 @@ Markdown format: height
 
 
 
-[Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001407)
-
-
-
-[tensorflow](https://github.com/xmengli999/Rotation-oriented-self-supervised)
-
-[pytorch](https://github.com/facebookresearch/CovidPrognosis)
-
-
-
 ## 2020
 
 |                         Paper title                          | Journal/Conference |           Category           |                          Paper link                          |                          Code link                           |
