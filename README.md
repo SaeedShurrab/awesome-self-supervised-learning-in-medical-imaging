@@ -26,6 +26,16 @@ Self-Supervised learning (SSL) is a hybrid learning approach that combines both 
   3. Requires experienced personnel.
   4. Prone to patients’ privacy preserving issues.
 
+
+
+This repository is a continuation of our survey in the field, please read and consider citing it in your work:
+
+```
+
+```
+
+
+
 ## Contributing to the repository
 
 <p align="center" >
