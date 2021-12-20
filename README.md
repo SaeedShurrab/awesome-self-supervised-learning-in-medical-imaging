@@ -36,7 +36,7 @@ This repository is a continuation of our survey in the field, please read and co
 
 
 
-## Contributing to the repository
+## Call for Contribution
 
 <p align="center" >
   <img src="./Assets/We-Need-You-Blue-Bell-Community-Hub.png" height =200 width=350 />
