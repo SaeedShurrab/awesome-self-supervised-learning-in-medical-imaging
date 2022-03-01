@@ -83,6 +83,7 @@ Markdown format: height
 - **[IEEE Transaction on Medical Imaging (IEEE-TMI)](https://ieee-tmi.org/)**
 - **[IEEE Transaction on Biomedical Engineering (IEEE-TBME)](http://tbme.embs.org/)**
 - **[IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)](http://jbhi.embs.org/)**
+- **[IEEE Transactions on Image Processing (IEEE-TPI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)**
 - **[Applied Soft Computing (ASC)](https://www.sciencedirect.com/journal/applied-soft-computing)**
 - **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
@@ -102,7 +103,14 @@ Markdown format: height
 
 
 
+https://github.com/lphxx6222712/ISCLNet
 
+## 2022
+
+|                         Paper title                          | Journal/Conference |  Category   |                          Paper link                          |                     Code link                      |
+| :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :------------------------------------------------: |
+| Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TPI      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) | [pytorch](https://github.com/lphxx6222712/ISCLNet) |
+|                                                              |                    |             |                                                              |                                                    |
 
 ## 2021
 
