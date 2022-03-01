@@ -108,10 +108,16 @@ Markdown format: height
 
 ## 2022
 
-|                         Paper title                          | Journal/Conference |  Category   |                          Paper link                          |                     Code link                      |
-| :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :------------------------------------------------: |
-| Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TPI      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) | [pytorch](https://github.com/lphxx6222712/ISCLNet) |
-| Multimodal image encoding pre-training for diabetic retinopathy grading |        CBM         | Generative  | [Link](https://www.sciencedirect.com/science/article/pii/S0010482522000944) |                        N/A                         |
+|                         Paper title                          | Journal/Conference |  Category   |                          Paper link                          |                          Code link                           |
+| :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TPI      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) |      [pytorch](https://github.com/lphxx6222712/ISCLNet)      |
+| Multimodal image encoding pre-training for diabetic retinopathy grading |        CBM         | Generative  | [Link](https://www.sciencedirect.com/science/article/pii/S0010482522000944) |                             N/A                              |
+| Self-supervised Learning for Few-shot Medical Image Segmentation |      IEE-TMI       |             | [Link](https://ieeexplore.ieee.org/abstract/document/9709261) | [pytorch](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
 
 ## 2021
 
