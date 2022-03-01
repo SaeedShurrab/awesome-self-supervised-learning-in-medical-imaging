@@ -69,7 +69,7 @@ Markdown format: height
 
 2. Papers are collected from peer-reviewed journals and high reputed conferences. However, it might have recent papers on arXiv.
 
-3. A meta-data is required along the paper, e.g. category.
+3. A meta-data is required along with the paper, e.g. category.
 
    
 
@@ -85,6 +85,7 @@ Markdown format: height
 - **[IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)](http://jbhi.embs.org/)**
 - **[IEEE Transactions on Image Processing (IEEE-TPI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)**
 - **[Applied Soft Computing (ASC)](https://www.sciencedirect.com/journal/applied-soft-computing)**
+- **[Computer in Biology and Medicine (CBM)]()**
 - **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
 - **[Nature Machine Intelligence (NMI)](https://www.nature.com/natmachintell/)**
@@ -103,14 +104,14 @@ Markdown format: height
 
 
 
-https://github.com/lphxx6222712/ISCLNet
+
 
 ## 2022
 
 |                         Paper title                          | Journal/Conference |  Category   |                          Paper link                          |                     Code link                      |
 | :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :------------------------------------------------: |
 | Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TPI      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) | [pytorch](https://github.com/lphxx6222712/ISCLNet) |
-|                                                              |                    |             |                                                              |                                                    |
+| Multimodal image encoding pre-training for diabetic retinopathy grading |        CBM         | Generative  | [Link](https://www.sciencedirect.com/science/article/pii/S0010482522000944) |                        N/A                         |
 
 ## 2021
 
