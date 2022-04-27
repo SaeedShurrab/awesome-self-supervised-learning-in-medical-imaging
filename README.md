@@ -100,6 +100,7 @@ Markdown format: height
 - **[Expert Systems with Applications (ESA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)**
 - **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)**
 - **Proceedings of Machine Learning Research (PMLR)**
+- **Proceedings of the AAAI Conference on Artificial Intelligence**
 - **Annual Conference on Neural Information Processing Systems (NIPS)**
 - **International Conference on Information Processing in Medical Imaging (IPMI)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
@@ -150,6 +151,7 @@ Markdown format: height
 
 |                         Paper title                          | Journal/Conference |           Category           |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Auto-GAN: Self-Supervised Collaborative Learning for Medical Image Synthesis |        AAAI        |          Generative          |       [Link](https://doi.org/10.1609/aaai.v34i07.6619)       |                             N/A                              |
 | Self-Loop Uncertainty: A Novel Pseudo-Label for Semi-supervised Medical Image Segmentation |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_60) |                             N/A                              |
 | Rubik’s Cube+: A self-supervised feature learning framework for 3D medical image analysis |       MedIA        |          Predictive          | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841520301109) |                             N/A                              |
 | Self-Supervised Learning Based on Spatial Awareness for Medical Image Analysis |    IEEE Access     |          Predictive          |     [Link](https://ieeexplore.ieee.org/document/9186121)     |                             N/A                              |
