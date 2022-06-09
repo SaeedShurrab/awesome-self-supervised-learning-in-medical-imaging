@@ -94,6 +94,7 @@ Markdown format: height
 - **[Applied Soft Computing (ASC)](https://www.sciencedirect.com/journal/applied-soft-computing)**
 - **[Computer in Biology and Medicine (CBM)]()**
 - **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
+- **[Machine Learning with Applications (MLwA)](https://www.sciencedirect.com/journal/machine-learning-with-applications)**
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
 - **[Nature Machine Intelligence (NMI)](https://www.nature.com/natmachintell/)**
 - **[Pattern Recognition](https://www.sciencedirect.com/science/journal/00313203)**
@@ -122,8 +123,8 @@ Markdown format: height
 | Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TPI      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) |      [pytorch](https://github.com/lphxx6222712/ISCLNet)      |
 | Multimodal image encoding pre-training for diabetic retinopathy grading |        CBM         | Generative  | [Link](https://www.sciencedirect.com/science/article/pii/S0010482522000944) |                             N/A                              |
 | Self-supervised Learning for Few-shot Medical Image Segmentation |      IEEE-TMI      |     N/A     | [Link](https://ieeexplore.ieee.org/abstract/document/9709261) | [pytorch](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) |
-|                                                              |                    |             |                                                              |                                                              |
-|                                                              |                    |             |                                                              |                                                              |
+| Self supervised contrastive learning for digital histopathology |        MLwA        | Contrastive |      [link](https://doi.org/10.1016/j.mlwa.2021.100198)      | [pytorch](https://github.com/ozanciga/self-supervised-histopathology) |
+| DeepSMILE: Contrastive self-supervised pre-training benefits MSI and HRD classification directly from H&E whole-slide images in colorectal and breast cancer |       MedIA        | Contrastive |     [Link](https://doi.org/10.1016/j.media.2022.102464)      |   [DLUP, VISSL, pytorch](https://github.com/NKI-AI/hissl)    |
 |                                                              |                    |             |                                                              |                                                              |
 |                                                              |                    |             |                                                              |                                                              |
 |                                                              |                    |             |                                                              |                                                              |
@@ -134,7 +135,7 @@ Markdown format: height
 
 |                         Paper title                          | Journal/Conference  |           Category           |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :-----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Transferable Visual Words: Exploiting the Semantics of Anatomical Patterns for Self-Supervised Learning |         TMI         | Multiple-tasks/Multi-tasking |       [Link](https://doi.org/10.1109/TMI.2021.3060634)       | [tensorflow](https://github.com/fhaghighi/TransVW/tree/master/keras) <br />[pytorch](https://github.com/fhaghighi/TransVW/tree/master/pytorch) |
+| Transferable Visual Words: Exploiting the Semantics of Anatomical Patterns for Self-Supervised Learning |      IEEE-TMI       | Multiple-tasks/Multi-tasking |       [Link](https://doi.org/10.1109/TMI.2021.3060634)       | [tensorflow](https://github.com/fhaghighi/TransVW/tree/master/keras) <br />[pytorch](https://github.com/fhaghighi/TransVW/tree/master/pytorch) |
 | Towards Fine-grained Visual Representations by Combining Contrastive Learning with Image Reconstruction and Attention-weighted Pooling |        ICML         |         Contrastive          |         [Link](https://arxiv.org/pdf/2104.04323.pdf)         | [tensorflow](https://github.com/bayer-science-for-a-better-life/contrastive-reconstruction) |
 | How Transferable are Self-supervised Features in Medical Image Classification Tasks? |        PMLR         |         Contrastive          |  [Link](https://proceedings.mlr.press/v158/truong21a.html)   |                             N/A                              |
 | Multimodal Self-supervised Learning for Medical Image Analysis |        IPMI         |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_51) |                             N/A                              |
