@@ -100,15 +100,16 @@ Markdown format: height
 - **[Expert Systems with Applications (ESA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)**
 - **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)**
 - **Proceedings of Machine Learning Research (PMLR)**
+- **International Conference on Machine Learning (ICML)**
 - **Proceedings of the AAAI Conference on Artificial Intelligence**
 - **Annual Conference on Neural Information Processing Systems (NIPS)**
-- **International Conference on Information Processing in Medical Imaging (IPMI)**
-- **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 - **International Conference on Medical Imaging with Deep Learning (MIDL)**
 - **IEEE International Symposium on Biomedical Imaging (ISBI)**
-- **Joint European Conference on Machine Learning and Knowledge Discovery in Databases (JECMLKDD)**
-- **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
 - **International Workshop on Deep Learning in Medical Image Analysis (DLMIA)**
+- **International Conference on Information Processing in Medical Imaging (IPMI)**
+- **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**
+- **Joint European Conference on Machine Learning and Knowledge Discovery in Databases (JECMLKDD)**
+- **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 
 
 
@@ -133,6 +134,8 @@ Markdown format: height
 
 |                         Paper title                          | Journal/Conference  |           Category           |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :-----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Towards Fine-grained Visual Representations by Combining Contrastive Learning with Image Reconstruction and Attention-weighted Pooling |        ICML         |         Contrastive          |         [Link](https://arxiv.org/pdf/2104.04323.pdf)         | [tensorflow](https://github.com/bayer-science-for-a-better-life/contrastive-reconstruction) |
+| How Transferable are Self-supervised Features in Medical Image Classification Tasks? |        PMLR         |         Contrastive          |  [Link](https://proceedings.mlr.press/v158/truong21a.html)   |                             N/A                              |
 | Multimodal Self-supervised Learning for Medical Image Analysis |        IPMI         |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_51) |                             N/A                              |
 | Self-supervised multimodal reconstruction pre-training for retinal computer-aided diagnosis |         ESA         |          Generative          | [Link](https://www.sciencedirect.com/science/article/pii/S0957417421009982) |                             N/A                              |
 | MedAug: Contrastive learning leveraging patient metadata improves representations for chest X-ray interpretation |        ArXiv        |         Contrastive          |           [Link](https://arxiv.org/abs/2102.10663)           |                             N/A                              |
