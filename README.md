@@ -90,9 +90,10 @@ Markdown format: height
 - **[IEEE Transaction on Medical Imaging (IEEE-TMI)](https://ieee-tmi.org/)**
 - **[IEEE Transaction on Biomedical Engineering (IEEE-TBME)](http://tbme.embs.org/)**
 - **[IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI)](http://jbhi.embs.org/)**
-- **[IEEE Transactions on Image Processing (IEEE-TPI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)**
+- **[IEEE Transactions on Image Processing (IEEE-TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)**
 - **[Applied Soft Computing (ASC)](https://www.sciencedirect.com/journal/applied-soft-computing)**
 - **[Computer in Biology and Medicine (CBM)]()**
+- **[Computerized Medical Imaging and Graphics (CMIG)](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)**
 - **[Medical Image Analysis (MedIA)](https://www.journals.elsevier.com/medical-image-analysis/)**
 - **[Machine Learning with Applications (MLwA)](https://www.sciencedirect.com/journal/machine-learning-with-applications)**
 - **[International Journal of Computer Assisted Radiology and Surgery (IJCARS)](https://link.springer.com/journal/11548)** 
@@ -120,12 +121,12 @@ Markdown format: height
 
 |                         Paper title                          | Journal/Conference |  Category   |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :----------------: | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TPI      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) |      [pytorch](https://github.com/lphxx6222712/ISCLNet)      |
+| Intra- and Inter-Slice Contrastive Learning for Point Supervised OCT Fluid Segmentation |      IEEE-TIP      | Contrastive | [Link](https://ieeexplore.ieee.org/abstract/document/9709199) |      [pytorch](https://github.com/lphxx6222712/ISCLNet)      |
 | Multimodal image encoding pre-training for diabetic retinopathy grading |        CBM         | Generative  | [Link](https://www.sciencedirect.com/science/article/pii/S0010482522000944) |                             N/A                              |
 | Self-supervised Learning for Few-shot Medical Image Segmentation |      IEEE-TMI      |     N/A     | [Link](https://ieeexplore.ieee.org/abstract/document/9709261) | [pytorch](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) |
 | Self supervised contrastive learning for digital histopathology |        MLwA        | Contrastive |      [link](https://doi.org/10.1016/j.mlwa.2021.100198)      | [pytorch](https://github.com/ozanciga/self-supervised-histopathology) |
 | DeepSMILE: Contrastive self-supervised pre-training benefits MSI and HRD classification directly from H&E whole-slide images in colorectal and breast cancer |       MedIA        | Contrastive |     [Link](https://doi.org/10.1016/j.media.2022.102464)      |   [DLUP, VISSL, pytorch](https://github.com/NKI-AI/hissl)    |
-|                                                              |                    |             |                                                              |                                                              |
+| Deep Contrastive Learning Based Tissue Clustering for Annotation-free Histopathology Image Analysis |        CMIG        | Contrastive |  [Link](https://doi.org/10.1016/j.compmedimag.2022.102053)   |                             N/A                              |
 |                                                              |                    |             |                                                              |                                                              |
 |                                                              |                    |             |                                                              |                                                              |
 
