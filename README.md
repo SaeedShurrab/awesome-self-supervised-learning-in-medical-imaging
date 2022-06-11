@@ -113,7 +113,7 @@ Markdown format: height
 - **Joint European Conference on Machine Learning and Knowledge Discovery in Databases (JECMLKDD)**
 - **International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)**
 
-
+----------------------------------------
 
 
 
@@ -137,7 +137,7 @@ Markdown format: height
 |                         Paper title                          | Journal/Conference  |           Category           |                          Paper link                          |                          Code link                           |
 | :----------------------------------------------------------: | :-----------------: | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Transferable Visual Words: Exploiting the Semantics of Anatomical Patterns for Self-Supervised Learning |      IEEE-TMI       | Multiple-tasks/Multi-tasking |       [Link](https://doi.org/10.1109/TMI.2021.3060634)       | [tensorflow](https://github.com/fhaghighi/TransVW/tree/master/keras) <br />[pytorch](https://github.com/fhaghighi/TransVW/tree/master/pytorch) |
-| Towards Fine-grained Visual Representations by Combining Contrastive Learning with Image Reconstruction and Attention-weighted Pooling |        ICML         |         Contrastive          |         [Link](https://arxiv.org/pdf/2104.04323.pdf)         | [tensorflow](https://github.com/bayer-science-for-a-better-life/contrastive-reconstruction) |
+| Towards Fine-grained Visual Representations by Combining Contrastive Learning with Image Reconstruction and Attention-weighted Pooling |        ICML         | Multiple-tasks/Multi-tasking |         [Link](https://arxiv.org/pdf/2104.04323.pdf)         | [tensorflow](https://github.com/bayer-science-for-a-better-life/contrastive-reconstruction) |
 | How Transferable are Self-supervised Features in Medical Image Classification Tasks? |        PMLR         |         Contrastive          |  [Link](https://proceedings.mlr.press/v158/truong21a.html)   |                             N/A                              |
 | Multimodal Self-supervised Learning for Medical Image Analysis |        IPMI         |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_51) |                             N/A                              |
 | Self-supervised multimodal reconstruction pre-training for retinal computer-aided diagnosis |         ESA         |          Generative          | [Link](https://www.sciencedirect.com/science/article/pii/S0957417421009982) |                             N/A                              |
