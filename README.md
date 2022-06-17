@@ -101,6 +101,8 @@ Markdown format: height
 - **[Pattern Recognition](https://www.sciencedirect.com/science/journal/00313203)**
 - **[Expert Systems with Applications (ESA)](https://www.sciencedirect.com/journal/expert-systems-with-applications)**
 - **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)**
+- **[Diagnostics](https://www.mdpi.com/journal/diagnostics)**
+- **Computer Vision and Pattern Recognition (CVPR)**
 - **Proceedings of Machine Learning Research (PMLR)**
 - **International Conference on Machine Learning (ICML)**
 - **Proceedings of the AAAI Conference on Artificial Intelligence**
@@ -127,6 +129,13 @@ Markdown format: height
 | Self supervised contrastive learning for digital histopathology |        MLwA        | Contrastive |      [link](https://doi.org/10.1016/j.mlwa.2021.100198)      | [pytorch](https://github.com/ozanciga/self-supervised-histopathology) |
 | DeepSMILE: Contrastive self-supervised pre-training benefits MSI and HRD classification directly from H&E whole-slide images in colorectal and breast cancer |       MedIA        | Contrastive |     [Link](https://doi.org/10.1016/j.media.2022.102464)      |   [DLUP, VISSL, pytorch](https://github.com/NKI-AI/hissl)    |
 | Deep Contrastive Learning Based Tissue Clustering for Annotation-free Histopathology Image Analysis |        CMIG        | Contrastive |  [Link](https://doi.org/10.1016/j.compmedimag.2022.102053)   |                             N/A                              |
+| ContIG: Self-supervised Multimodal Contrastive Learning for Medical Imaging with Genetics |        CVPR        | Contrastive | [Link](https://openaccess.thecvf.com/content/CVPR2022/html/Taleb_ContIG_Self-Supervised_Multimodal_Contrastive_Learning_for_Medical_Imaging_With_Genetics_CVPR_2022_paper.html) |        [pytorch](https://github.com/HealthML/ContIG)         |
+| Self-Supervised Learning Methods for Label-Efficient Dental Caries Classification |    Diagnostics     | Contrastive |     [Link](https://doi.org/10.3390/diagnostics12051237)      |                             N/A                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
+|                                                              |                    |             |                                                              |                                                              |
 |                                                              |                    |             |                                                              |                                                              |
 |                                                              |                    |             |                                                              |                                                              |
 
