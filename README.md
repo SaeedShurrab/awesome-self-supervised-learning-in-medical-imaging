@@ -31,13 +31,14 @@ Self-Supervised learning (SSL) is a hybrid learning approach that combines both 
 This repository is a continuation of our survey in the field, please read and consider citing it in your work:
 
 ```
-@misc{shurrab2021selfsupervised,
-      title={Self-supervised learning methods and applications in medical imaging analysis: A survey}, 
-      author={Saeed Shurrab and Rehab Duwairi},
-      year={2021},
-      eprint={2109.08685},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{shurrab2022self,
+  title={Self-supervised learning methods and applications in medical imaging analysis: A survey},
+  author={Shurrab, Saeed and Duwairi, Rehab},
+  journal={PeerJ Computer Science},
+  volume={8},
+  pages={e1045},
+  year={2022},
+  publisher={PeerJ Inc.}
 }
 ```
 
