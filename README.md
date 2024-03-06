@@ -201,7 +201,7 @@ Markdown format: height
 | Self-Supervised Learning for Cardiac MR Image Segmentation by Anatomical Position Prediction |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_60) |                            NA                             |
 | Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik’s Cube |       MICCAI       |          Predictive          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_46) |                            NA                             |
 | Self-supervised learning for medical image analysis using image context restoration |       MedIA        |          Generative          | [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841518304699) |                            NA                             |
-| Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis |       MICCAI       |          Generative          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_42) | [tensorflow](https://github.com/MrGiovanni/ModelsGenesis) |
+| Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis |       MICCAI       |          Generative          | [Link](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_42) | [tensorflow & pytorch](https://github.com/MrGiovanni/ModelsGenesis) |
 | Surrogate Supervision for Medical Image Analysis: Effective Deep Learning From Limited Quantities of Labeled Data |        ISBI        | Multiple-tasks/Multi-tasking |    [Link](https://ieeexplore.ieee.org/document/8759553/)     |                            NA                             |
 
 
